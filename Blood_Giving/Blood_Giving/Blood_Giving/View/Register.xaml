@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BloodAppand.viaw.Register">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Register" HorizontalOptions="Center" Margin="50" FontAttributes="Bold" FontSize="30" TextColor="Black" />
+            <Label Text="Username" Margin="30,0,0,0" TextColor="Black" FontSize="18" />
+            <Entry x:Name="EntryUsername"  Placeholder="Username" Margin="30,0"/>
+            <Label Text="Password" Margin="30,5,0,0" TextColor="Black" FontSize="18"/>
+            <Entry x:Name="EntryPassword" Placeholder="Password" Margin="30,0" />
+            <Label Text="Full Name" Margin="30,0,0,0" TextColor="Black" FontSize="18"/>
+            <Entry x:Name="EntryName" Placeholder="Full Name" Margin="30,0"/>
+            <Label Text="Type Blood" Margin="30,5,0,0" TextColor="Black" FontSize="18"/>
+            <Entry x:Name="EntryType_Blood" Placeholder="Type Blood" Margin="30,0" />
+
+            <Button  Text="Enter"  Margin="40,10" BackgroundColor="Red" TextColor="#FFFFFF" FontSize="20" FontAttributes="Bold" Clicked="Enter_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

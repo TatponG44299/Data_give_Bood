@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BloodAppand.viaw.Home">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="บริจาคโลหิต" HorizontalOptions="Center" Margin="50" FontAttributes="Bold" FontSize="36" TextColor="Black" />
+            <StackLayout>
+                <Image Source="IM.jpg" HeightRequest="200" />
+            </StackLayout>
+            <Button Text="ข้อมูลโครงการ" Margin="40,10,40,0" Clicked="Button_Clicked" BackgroundColor="Red" FontSize="25"/>
+            <Button Text="สถิติการบริจาค" Margin="40,10,40,0" Clicked="Button_Clicked_1" BackgroundColor="Red" FontSize="25" />
+            <Button Text="ออกจากระบบ" Margin="40,10,40,0" Clicked="Button_Clicked_2" BackgroundColor="Red" FontSize="25" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,37 @@
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\bin\Debug\netstandard2.0\Blood_Giving.deps.json
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\bin\Debug\netstandard2.0\Blood_Giving.dll
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\Blood_Giving.AssemblyInfoInputs.cache
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\Blood_Giving.AssemblyInfo.cs
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\View\Data_project.xaml.g.cs
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\View\Home.xaml.g.cs
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\View\Login.xaml.g.cs
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\View\Register.xaml.g.cs
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\View\statistics.xaml.g.cs
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\bin\Debug\netstandard2.0\ref\Blood_Giving.dll
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\bin\Debug\netstandard2.0\Blood_Giving.pdb
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\Blood_Giving.dll
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\ref\Blood_Giving.dll
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\Blood_Giving.pdb
+E:\Visual Programming\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\Blood_Giving.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\bin\Debug\netstandard2.0\Blood_Giving.deps.json
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\bin\Debug\netstandard2.0\Blood_Giving.dll
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\bin\Debug\netstandard2.0\ref\Blood_Giving.dll
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\bin\Debug\netstandard2.0\Blood_Giving.pdb
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\Blood_Giving.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\View\Data_project.xaml.g.cs
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\View\Home.xaml.g.cs
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\View\Login.xaml.g.cs
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\View\Register.xaml.g.cs
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\View\statistics.xaml.g.cs
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\Blood_Giving.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\Blood_Giving.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\Blood_Giving.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\Blood_Giving.dll
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\ref\Blood_Giving.dll
+C:\Users\Admin\source\repos\Visual_Blood\Blood_Giving\Blood_Giving\Blood_Giving\obj\Debug\netstandard2.0\Blood_Giving.pdb

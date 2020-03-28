@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BloodAppand.viaw.statistics">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="สถิติการบริจาค" HorizontalOptions="Center" Margin="50" FontAttributes="Bold" FontSize="36" TextColor="Black" />
+
+            <Frame BackgroundColor="Red" BorderColor="Black" Padding="0" Margin="20,0" >
+                <Grid Padding="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2.5*"/>
+                        <ColumnDefinition Width="2.5*"/>
+                        <ColumnDefinition Width="2.5*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Margin="10,0,10,0" Text="บริจาคครั้งที่" TextColor="White" VerticalOptions="Center" Grid.Column="0"  />
+                    <Label Margin="10,0,10,0" Text="ชื่อโครงการ" TextColor="White" VerticalOptions="Center" Grid.Column="1"/>
+                    <Label Margin="10,0,10,0" Text="ผู้รับผิดชอบ" TextColor="White" VerticalOptions="Center" Grid.Column="2" />
+
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="0" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="1" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="2" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                </Grid>
+            </Frame>
+
+            <Frame  BorderColor="Black" Padding="0" Margin="20,-10,20,0">
+                <Grid Padding="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2.5*"/>
+                        <ColumnDefinition Width="2.5*"/>
+                        <ColumnDefinition Width="2.5*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Margin="10,0,10,0" Text="ครั้งที่ 1" TextColor="Black" VerticalOptions="Center" Grid.Column="0"  />
+                    <Label Margin="10,0,10,0" Text="บริจาคโลหิตเพื่อพ่อ" TextColor="Black" VerticalOptions="Center" Grid.Column="1"/>
+                    <Label Margin="10,0,10,0" Text="ธนาคาร" TextColor="Black" VerticalOptions="Center" Grid.Column="2" />
+
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="0" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="1" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="2" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                </Grid>
+            </Frame>
+
+            <Frame  BorderColor="Black" Padding="0" Margin="20,-10,20,0">
+                <Grid Padding="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2.5*"/>
+                        <ColumnDefinition Width="2.5*"/>
+                        <ColumnDefinition Width="2.5*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Margin="10,0,10,0" Text="ครั้งที่ 2" TextColor="Black" VerticalOptions="Center" Grid.Column="0"  />
+                    <Label Margin="10,0,10,0" Text="บริจาคโลหิต" TextColor="Black" VerticalOptions="Center" Grid.Column="1"/>
+                    <Label Margin="10,0,10,0" Text="ประหยัดตัง" TextColor="Black" VerticalOptions="Center" Grid.Column="2" />
+
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="0" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="1" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="2" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                </Grid>
+            </Frame>
+
+            <Frame  BorderColor="Black" Padding="0" Margin="20,-10,20,0">
+                <Grid Padding="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2.5*"/>
+                        <ColumnDefinition Width="2.5*"/>
+                        <ColumnDefinition Width="2.5*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Margin="10,0,10,0" Text="ครั้งที่ 3" TextColor="Black" VerticalOptions="Center" Grid.Column="0"  />
+                    <Label Margin="10,0,10,0" Text="บริจาคเพื่อสังคม" TextColor="Black" VerticalOptions="Center" Grid.Column="1"/>
+                    <Label Margin="10,0,10,0" Text="สุขาวิมาญ" TextColor="Black" VerticalOptions="Center" Grid.Column="2" />
+
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="0" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="1" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="2" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                </Grid>
+            </Frame>
+
+            <Frame  BorderColor="Black" Padding="0" Margin="20,-10,20,0">
+                <Grid Padding="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2.5*"/>
+                        <ColumnDefinition Width="2.5*"/>
+                        <ColumnDefinition Width="2.5*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Margin="10,0,10,0" Text="ครั้งที่ 4" TextColor="Black" VerticalOptions="Center" Grid.Column="0"  />
+                    <Label Margin="10,0,10,0" Text="ทำบุญด้วยบริจาคโลหิต" TextColor="Black" VerticalOptions="Center" Grid.Column="1"/>
+                    <Label Margin="10,0,10,0" Text="สุขาวืมาญ" TextColor="Black" VerticalOptions="Center" Grid.Column="2" />
+
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="0" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="1" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="2" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                </Grid>
+            </Frame>
+
+            <Frame  BorderColor="Black" Padding="0" Margin="20,-10,20,0">
+                <Grid Padding="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2.5*"/>
+                        <ColumnDefinition Width="2.5*"/>
+                        <ColumnDefinition Width="2.5*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Margin="10,0,10,0" Text="ครั้งที่ 5" TextColor="Black" VerticalOptions="Center" Grid.Column="0"  />
+                    <Label Margin="10,0,10,0" Text="ทำบุญด้วยบริจาคโลหิต" TextColor="Black" VerticalOptions="Center" Grid.Column="1"/>
+                    <Label Margin="10,0,10,0" Text="วัดหน่องอีเต๋อง" TextColor="Black" VerticalOptions="Center" Grid.Column="2" />
+
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="0" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="1" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="2" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                </Grid>
+            </Frame>
+
+            <Frame  BorderColor="Black" Padding="0" Margin="20,-10,20,0">
+                <Grid Padding="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2.5*"/>
+                        <ColumnDefinition Width="2.5*"/>
+                        <ColumnDefinition Width="2.5*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Margin="10,0,10,0" Text="ครั้งที่ 6" TextColor="Black" VerticalOptions="Center" Grid.Column="0"  />
+                    <Label Margin="10,0,10,0" Text="ทำบุญด้วยการบริจาคโลหิต ครั้งที่ 2" TextColor="Black" VerticalOptions="Center" Grid.Column="1"/>
+                    <Label Margin="10,0,10,0" Text="สุขาวิมาญ" TextColor="Black" VerticalOptions="Center" Grid.Column="2" />
+
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="0" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="1" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                    <BoxView BackgroundColor="Black" WidthRequest="1" Grid.Column="2" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"/>
+                </Grid>
+            </Frame>
+            <Button Text=" Back" Clicked="Button_Clicked" TextColor="White" BackgroundColor="Red" Margin="40" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

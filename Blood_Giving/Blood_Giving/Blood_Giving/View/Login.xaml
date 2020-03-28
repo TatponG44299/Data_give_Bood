@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BloodAppand.viaw.Login">
+    <ContentPage.Content>
+        <StackLayout Margin="10">
+            <StackLayout>
+                <Image Source="IM.jpg" HeightRequest="180" />
+            </StackLayout>
+            <Label Text="Give Blood" HorizontalOptions="Center" Margin="15" FontAttributes="Bold" FontSize="36" TextColor="Black" />
+            <Label Text="Username" Margin="30,0,0,0" TextColor="Black" FontSize="18" />
+            <Entry  x:Name="EntryUsername" Placeholder="Username" Margin="30,0"/>
+            <Label  Text="Password" Margin="30,0,0,0" TextColor="Black" FontSize="18"/>
+            <Entry  x:Name="EntryPassword" Placeholder="Password" Margin="30,0" />
+            <Button  Text="Sign in"  Margin="40,20,40,10" Clicked="Button_Clicked" BackgroundColor="Red" TextColor="#FFFFFF" FontSize="15" FontAttributes="Bold"/>
+            <Button  Text="Register"  Margin="40,10" Clicked="Regis_Clicked" BackgroundColor="Red" TextColor="#FFFFFF" FontSize="15" FontAttributes="Bold"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
